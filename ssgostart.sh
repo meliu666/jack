@@ -1,4 +1,5 @@
 #bash <(curl -fsSL https://raw.githubusercontent.com/meliu666/jack/refs/heads/main/ssgostart.sh)
+#echo -n 'chacha20-ietf-poly1305:jackpassword@13.234.202.160:22222' | base64 | awk '{print "ss://" $1 "#My-SS-Server"}'
 
 #!/bin/bash
 set -e
