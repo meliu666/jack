@@ -1,4 +1,4 @@
-#bash <(curl -fsSL https://raw.githubusercontent.com/meliu666/scripts/main/ssgo.sh)
+#bash <(curl -fsSL https://raw.githubusercontent.com/meliu666/jack/refs/heads/main/ssgostart.sh)
 
 #!/bin/bash
 set -e
