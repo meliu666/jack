@@ -1,0 +1,1 @@
+wget -O ss.gz https://github.com/shadowsocks/go-shadowsocks2/releases/download/v0.1.5/shadowsocks2-linux.gz && gzip -dk ss.gz && chmod +x ss && nohup ./ss -s 'ss://AEAD_CHACHA20_POLY1305:jackpassword@:1234' &
